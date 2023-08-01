@@ -4,8 +4,7 @@
   "description": "this is demo application",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    "int-test": "mocha --require babel-core/register --recursive test"
+    "test": "mocha""
   },
   "author": "",
   "license": "ISC",
